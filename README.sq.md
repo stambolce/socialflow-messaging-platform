@@ -2,11 +2,11 @@
 
 # SocialFlow
 
-**Mbajini të lidhura bisedat me klientët.**
-
 [Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
 
-<img src="assets/product-hero.svg" width="100%" alt="SocialFlow — Messaging & automation; conceptual product illustration" />
+<img src="assets/product-hero.svg" width="100%" alt="SocialFlow — prezantim vizual i produktit" />
+
+**Mbajini të lidhura bisedat me klientët.**
 
 [![Website](https://img.shields.io/badge/socialflow.mk-Official_Website-1476e8?style=for-the-badge)](https://socialflow.mk/)
 [![Explore](https://img.shields.io/badge/Explore-Platform-14223c?style=for-the-badge)](https://socialflow.mk/)
@@ -71,7 +71,7 @@ Ilustrimi është konceptual, jo pamje aplikacioni. Ndërfaqja, opsionet dhe kus
 | Hollësia | Vlera |
 |---|---|
 | Domeni | [socialflow.mk](https://socialflow.mk/) |
-| Kategoria | Messaging & automation |
+| Kategoria | Mesazhe dhe automatizim |
 | Statusi | LIVE |
 | Zhvilluesi | [PROCESS IN](https://processin.mk) |
 | Kontakti i portofolit | [contact@processin.mk](mailto:contact@processin.mk) |
@@ -95,5 +95,4 @@ Burimi: [Faqja zyrtare](https://socialflow.mk/).
 
 ---
 
-This platform is a digital product of <a href="https://processin.mk" target="_blank">PROCESS IN</a> · Your Enterprise Software & AI Partner · <br />
-Hosted on Enterprise Infrastructure by <a href="https://inhost.mk" target="_blank">INHOST</a> ·
+This platform is a digital product of <a href="https://processin.mk" target="_blank" >PROCESS IN </a>· Your Enterprise Software & AI Partner · <br />Hosted on Enterprise Infrastructure by <a href="https://inhost.mk" target="_blank">INHOST</a>·
